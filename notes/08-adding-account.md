@@ -1,6 +1,3 @@
-Here’s a **short step-by-step tutorial** on how to add a new account called **"Subscription Expense"** under the **"Expense"** account type in **Zoho Books**:
-
----
 
 ### 🧾 **Tutorial: Adding a New Account – “Subscription Expense”**
 
