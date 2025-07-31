@@ -124,3 +124,62 @@ Click **Save** to activate the recurring schedule.
 ## 📌 Pro Tip
 
 If the amount or vendor changes frequently, avoid using recurring bills. Instead, use regular **Bills** and adjust details manually.
+
+---
+## While adding Item in a Recurring Bill do we need to enter Sale Info?
+
+### 🧾 **When Adding an Item in a Recurring Bill (or Regular Bill) in Zoho Books:**
+
+No, you **do NOT need to fill in the "Sale Info"** section when adding an item **only for purchase purposes** like in a **Recurring Bill**.
+
+---
+
+## ✅ Here's Why:
+
+* **Recurring Bills** are part of the **Purchases workflow**, not Sales.
+* You are recording an **expense incurred from a vendor**, not something you are selling to a customer.
+
+---
+
+## 🛠️ When Adding a New Item:
+
+You’ll see two sections:
+
+1. **Purchase Information** – Required for Bills, Recurring Bills, and Purchase Orders
+2. **Sales Information** – Required for Invoices and Quotes
+
+If the item is **only used in purchases**, you can **skip the "Sales Information" section.**
+
+---
+
+## 🧾 Example: Canva Pro Subscription
+
+When creating the item for a recurring bill:
+
+| Field                | Value                            |
+| -------------------- | -------------------------------- |
+| Item Type            | Service                          |
+| Name                 | Canva Pro Subscription           |
+| Rate (Purchase Info) | ₹1,200                           |
+| Expense Account      | Subscription Expense             |
+| Sales Info Section   | ❌ Not needed for recurring bills |
+
+---
+
+## ✅ When Do You Need Sales Info?
+
+You only need to fill **Sales Information** if:
+
+* You plan to **invoice** customers for that item
+* The item will be **sold** (products or services)
+
+---
+
+### 🎯 Summary:
+
+| Purpose             | Sales Info Required? |
+| ------------------- | -------------------- |
+| Recurring Bill      | ❌ No                 |
+| Purchase Order/Bill | ❌ No                 |
+| Sales Invoice/Quote | ✅ Yes                |
+
