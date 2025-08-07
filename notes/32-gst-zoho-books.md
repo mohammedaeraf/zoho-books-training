@@ -1,7 +1,5 @@
 # 📘 ** GST in Zoho Books (India)**
 
----
-
 ## ✅ **What is GST?**
 
 **Goods and Services Tax (GST)** is a unified indirect tax system applicable across India. It replaces multiple taxes like VAT, Service Tax, and Excise Duty.
