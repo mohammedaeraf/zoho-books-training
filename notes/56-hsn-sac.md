@@ -1,7 +1,3 @@
-Sure! Let's break down the concepts of **HSN (Goods)** and **SAC (Services)** in a beginner-friendly way, especially in the context of **GST (Goods and Services Tax)** in India.
-
----
-
 ## 🛒 GOODS (HSN) and 🛠️ SERVICES (SAC) – Explained
 
 ### 🔹 What is HSN?
@@ -148,4 +144,3 @@ You want to ensure your items (products or services) have the correct HSN/SAC co
 
 * Enable **HSN/SAC display on invoice** under **Settings → Preferences → Taxes**.
 * Use **“Place of Supply”** correctly for accurate GST type (CGST+SGST vs. IGST).
-
