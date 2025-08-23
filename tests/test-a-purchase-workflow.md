@@ -2,10 +2,10 @@
 
 ## **Purchase Workflow**
 
-### **Exam Instructions
-Time - **30 Mins**
-Marks - **50 Marks**
----
+### **Exam Instructions**
+Time - `30 Mins`  
+Total Marks - `50`
+--- 
 
 ### Practical Tasks:
 
