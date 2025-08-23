@@ -2,7 +2,10 @@
 
 ## **Purchase Workflow**
 
-### Time - **30 Mins**
+### **Exam Instructions
+Time - **30 Mins**
+Marks - **50 Marks**
+---
 
 ### Practical Tasks:
 
