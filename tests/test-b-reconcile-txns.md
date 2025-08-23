@@ -1,6 +1,8 @@
-# 📝 Test (B) 
+# 📝 Test (B)
 
 ## **Invoice, Importing Bank Transaction & Matching**
+
+### Time - **30 Mins**
 
 ### Practical Tasks:
 

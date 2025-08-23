@@ -1,6 +1,8 @@
 # 📝 Test (A)
 
-## **Purchase Workflow** 
+## **Purchase Workflow**
+
+### Time - **30 Mins**
 
 ### Practical Tasks:
 
