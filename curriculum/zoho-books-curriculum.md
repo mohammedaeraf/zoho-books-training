@@ -75,13 +75,12 @@
 * Applying Taxes on Sales & Purchases
 * Filing GST Returns using Zoho Books
 
-### ✅ Session 9: Automation & Workflows
+### ✅ Session 9: Automation 
 
-* Recurring Invoices & Expenses
+* Recurring Invoices
+* Recurring Bills
+* Recurring Expenses
 * Setting Reminders & Alerts
-* Custom Workflows (Invoice Approvals, etc.)
-* Webhooks & Integration Basics
-
 ---
 
 ## 🔹 **Week 4: Reporting, Customization & Practice**
@@ -96,7 +95,6 @@
 
 * Custom Fields, Templates & Branding
 * Email Templates & Customer Portal
-* Integration with Zoho CRM, Zoho Inventory, and third-party tools
 
 ### ✅ Session 12: Final Project & Q\&A
 
