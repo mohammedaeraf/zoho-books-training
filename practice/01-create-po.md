@@ -88,9 +88,9 @@ You run a small training institute and need to purchase **50 notebooks** for you
 1. Open the same PO → Click **Convert to Bill**
 2. All item details are auto-filled
 3. Click **Save**
-
 ✅ A Bill is now created, showing ₹2,000 payable to `Stationery World`
 ✅ Inventory now **increases by 50 units**
+
 ---
 
 ### 📊 Final Checks:
