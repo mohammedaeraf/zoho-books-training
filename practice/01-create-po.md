@@ -80,10 +80,7 @@ You run a small training institute and need to purchase **50 notebooks** for you
 ### 📦 Task E: Mark as Received
 
 1. Click **More Actions → Mark as Received**
-2. Confirm item quantity received
-
-✅ Inventory now **increases by 50 units**
-
+2. To have the item's stock quantity updated, you need to convert the PO to Bill in the next step.
 ---
 
 ### 🧾 Task F: Convert to Bill
@@ -93,7 +90,7 @@ You run a small training institute and need to purchase **50 notebooks** for you
 3. Click **Save**
 
 ✅ A Bill is now created, showing ₹2,000 payable to `Stationery World`
-
+✅ Inventory now **increases by 50 units**
 ---
 
 ### 📊 Final Checks:
