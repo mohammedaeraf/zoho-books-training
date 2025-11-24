@@ -62,9 +62,9 @@ Zoho Books allows you to **track the PO’s lifecycle**, and each stage affects 
 ### 3. **Mark as Received**
 
 * Indicates the goods have been physically received
-* Inventory is **increased** based on the item quantities
+* Inventory is still **not increased** based on the item quantities
 * Status: `Received`
-  ✅ This is the first stage that **affects stock levels**
+* Inventory remains **unchanged** here because the bill is not yet created
 
 ---
 
@@ -72,7 +72,8 @@ Zoho Books allows you to **track the PO’s lifecycle**, and each stage affects 
 
 * Converts the PO into a Bill for payment
 * Financial record of **Accounts Payable** is created
-* Inventory remains **unchanged** here because it was already updated at the **Received** stage
+✅ This is the first stage that **affects stock levels**
+
 
 ---
 
@@ -80,10 +81,10 @@ Zoho Books allows you to **track the PO’s lifecycle**, and each stage affects 
 
 | PO Stage          | Inventory Updated? |
 | ----------------- | ------------------ |
-| Draft             | ❌ No               |
-| Issued            | ❌ No               |
-| Received          | ✅ Yes              |
-| Converted to Bill | ❌ Already updated  |
+| Draft             | ❌ No              |
+| Issued            | ❌ No              |
+| Received          | ❌ No              |
+| Converted to Bill | ✅ Yes             |
 
 ---
 
