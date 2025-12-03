@@ -52,15 +52,7 @@ A **Delivery Challan** is a document that accompanies goods during shipment. It 
 
 ---
 
-### Step 3: Add Optional Info
-
-* **Mode of Transport**: Truck, Courier, etc.
-* **Vehicle Number**, **Transporter Name** (for logistics)
-* Notes or Terms & Conditions (if needed)
-
----
-
-### Step 4: Save, Print or Email
+### Step 3: Save, Print or Email
 
 * Click **Save and Send** (to email)
 * Or **Save and Print** (if you’re handing over a physical copy)
@@ -88,11 +80,3 @@ When you’re ready to invoice the delivered goods:
 | Payment required | ❌ No                 | ✅ Yes               |
 | Purpose          | Record delivery only | Request for payment |
 | Legal document   | ✅ Yes (for dispatch) | ✅ Yes (for billing) |
-
----
-
-## 🧠 Pro Tips:
-
-* You can link **Delivery Challans to Sales Orders**
-* Use **Delivery Challans Report** to track goods movement
-* Useful for **GST compliance**, especially when goods are sent for job work

@@ -57,8 +57,6 @@ Fill the following:
 | Delivery Address  | Same as billing                |
 | Item              | Wireless Router - TPLink       |
 | Quantity          | 10                             |
-| Mode of Transport | Surface Transport              |
-| Vehicle No.       | KA03AB9876                     |
 | Notes             | Please inspect before signing. |
 
 Save and **Print** or **Download PDF**.

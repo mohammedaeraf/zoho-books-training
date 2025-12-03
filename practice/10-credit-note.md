@@ -102,11 +102,3 @@ Go to:
 | Invoice created           |            |
 | Credit Note created       |            |
 | Credit applied to invoice |            |
-
----
-
-## 🧠 Discussion Questions
-
-1. What happens to the original invoice total after applying the credit?
-2. Can a credit note be issued without linking it to an invoice?
-3. How would this affect inventory if tracking is enabled?
