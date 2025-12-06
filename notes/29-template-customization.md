@@ -172,7 +172,7 @@ You can click **"Mark as Default"** if you want this template to be used automat
 Ask students to:
 
 1. Duplicate the default Invoice template
-2. Add their **own logo**
+2. Add your **own logo**
 3. Rename “Item” to “Service/Product”
 4. Add a note: *"This is a computer-generated invoice."*
 5. Save and apply it to a sample invoice
