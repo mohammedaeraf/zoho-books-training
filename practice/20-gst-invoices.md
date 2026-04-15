@@ -29,14 +29,14 @@ Create the following items:
 * Name: Wireless Keyboard
 * Selling Price: ₹1,000
 * GST Rate: 18%
-* **HSN Code:** 847160
+* **HSN Code:** 84716040
 
 ### **Item 2**
 
 * Name: USB Cable
 * Selling Price: ₹200
 * GST Rate: 12%
-* **HSN Code:** 854442
+* **HSN Code:** 85444220
 
 ---
 
